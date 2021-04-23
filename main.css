@@ -1,0 +1,52 @@
+body{
+    font-style: italic;
+
+    font-size: 20px;
+    
+    line-height: 30px;
+}
+
+
+
+
+#logo {
+    
+    display: block;
+    max-width: 400px;
+    margin: auto;
+    padding-top:50px ;  
+   
+}
+
+
+#descripcion {
+    padding: 50px;
+    text-align: center;
+}
+
+
+#honkai {
+
+  max-width: 500px;
+  float: left;
+  padding: 50px;
+  
+}
+
+
+#honkaidesc {
+    padding: 50px;
+}
+
+
+#genshin {
+    padding: 50px;
+}
+
+
+#genshinpic {
+    display: block;
+    max-width: 600px;
+    margin: auto;
+    border: 5px solid rgb(38, 80, 134);
+}
